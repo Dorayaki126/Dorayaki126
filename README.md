@@ -1,9 +1,9 @@
 ### Hi there 👋
 !!!!
-住家裡
-但是家裡沒零食了
-所以我要到我朋友家吃
-好爽
+\n住家裡
+\n但是家裡沒零食了
+\n所以我要到我朋友家吃
+\n好爽
 
 <!--
 **Dorayaki126/Dorayaki126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
